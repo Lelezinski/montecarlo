@@ -1,0 +1,7 @@
+﻿  montecarlo.cpp
+C:\Users\Lorenzo\source\repos\MonteCarloSim\montecarlo.cpp(20,10): warning C4244: 'inizializzazione': conversione da 'double' a 'int'. Possibile perdita di dati.
+C:\Users\Lorenzo\source\repos\MonteCarloSim\montecarlo.cpp(21,20): warning C4244: 'argomento': conversione da 'int' a 'float'. Possibile perdita di dati.
+C:\Users\Lorenzo\source\repos\MonteCarloSim\montecarlo.cpp(54,7): warning C4834: il valore restituito della funzione con attributo 'nodiscard' verrà rimosso
+C:\Users\Lorenzo\source\repos\MonteCarloSim\montecarlo.cpp(59,45): warning C4244: '=': conversione da 'unsigned int' a 'float'. Possibile perdita di dati.
+C:\Users\Lorenzo\source\repos\MonteCarloSim\montecarlo.cpp(60,7): warning C4244: 'argomento': conversione da 'float' a 'const unsigned int'. Possibile perdita di dati.
+  MonteCarloSim.vcxproj -> C:\Users\Lorenzo\source\repos\MonteCarloSim\Debug\MonteCarloSim.exe

@@ -1,0 +1,2 @@
+C:\Users\Lorenzo\source\repos\MonteCarloSim\Debug\MonteCarloSim.exe
+C:\Users\Lorenzo\source\repos\MonteCarloSim\Debug\MonteCarloSim.pdb
